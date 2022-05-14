@@ -1,4 +1,4 @@
-# world-populaion-EDA
+# world-population-EDA
 My First Simple Data Analysis Project
 
 Source of data: Wikipedia<br/>
